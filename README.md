@@ -51,7 +51,7 @@ nextflow run main.nf -resume -w work_dir \
 
 ```
 
-### Parameters and defaut setting
+## Parameters and defaut setting
 
 - `params.genome`: Path to the genome file (default: `$baseDir/data/ref/genome.fa`).
 - `params.peaks`: Path to peak files (default: `$baseDir/data/peak/*`).
@@ -64,12 +64,13 @@ nextflow run main.nf -resume -w work_dir \
 - `params.learning_rates`: Learning rates for model tuning (default: `[1e-3, 1e-4, 5e-4, 5e-5]`).
 
 
-### Output
+## Output
 
 - Results will be saved in the specified `--outdir` (default: `results`).
 - Trace files for debugging and performance monitoring will be stored in `params.trace_dir` (default: `trace_dir`).
 
-### Citation
+
+## Citation
 
 TBA
 
