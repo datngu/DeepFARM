@@ -70,6 +70,20 @@ nextflow run main.nf -resume -w work_dir \
 - Trace files for debugging and performance monitoring will be stored in `params.trace_dir` (default: `trace_dir`).
 
 
+## Pre-train models
+
+Model weights of DanQ for cattle, pig, chicken, and salmon are available at:
+
+https://github.com/datngu/data/releases/download/v.0.0.4/cattle_DanQ.h5
+
+https://github.com/datngu/data/releases/download/v.0.0.4/chicken_DanQ.h5
+
+https://github.com/datngu/data/releases/download/v.0.0.4/pig_DanQ.h5
+
+https://github.com/datngu/data/releases/download/v.0.0.4/salmon_DanQ.h5
+
+
+
 ## Citation
 
 TBA
