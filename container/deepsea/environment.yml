@@ -1,0 +1,27 @@
+name: env
+channels:
+  - defaults
+  - conda-forge
+  - bioconda
+  - nvidia
+dependencies:
+  - gcc_linux-64
+  - libgcc
+  - pip 
+  - matplotlib
+  - pybedtools
+  - pybigwig
+  - pysam
+  - scikit-learn
+  - scipy
+  - seaborn
+  - samtools
+  - bedtools
+  - bwa
+  - bowtie2
+  - python=3.10
+  - numpy==1.23.2
+  - pandas==2.0.1
+  - tensorflow==2.12.0
+  - cudatoolkit==11.8.0
+  - cudnn

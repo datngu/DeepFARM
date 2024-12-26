@@ -7,7 +7,7 @@ GitHub: [DeepFARM](https://github.com/datngu/DeepFARM)
 
 ## Author
 - **Dat T Nguyen**  
-- Contact: ndat<at>utexas.edu  
+- Contact: ndat<@>utexas.edu  
 
 ---
 
